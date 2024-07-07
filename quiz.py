@@ -76,6 +76,39 @@ def update_time_left():
 
 clock.schedule_interval(update_time_left, 1)
 
+def on_mouse_down(pos):
+    index=1
+    for box in answer_boxes:
+        if box.collidepoint(pos):
+            if index is int(question[5]):
+                correct_answer()
+            else:
+                game_over()
+        index=index+1
+    if skip_box.collidepoint(pos):
+        skip_question()
+
+def correct_answer():
+    global score, question, time_left, questions
+    score=score+1
+    if questions:
+        question=read_next_question()
+        time_left=10
+    else:
+        game_over()
+
+def skip_question():
+    global question, time_left
+    if questions:
+        question=read_next_question()
+        time_left=10
+
+def game_over():
+    global question, time_left, is_game_over
+    message=f"Game over!\nYou got{score}questions correct!"
+    question=[message,"-","-","-","-",0]
+    time_left=0
+    is_game_over=True
 
 
 
