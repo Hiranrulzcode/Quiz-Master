@@ -1,11 +1,11 @@
-Heat or thermal energy can be transferred in different ways. How is heat moved in a liquid?,Convection,Evaporation,Conduction,Radiation,1
-What is the capital of Australia?,London,Canberra,Melbourne,Tokyo,2
-What is 5 x 7?,35,57,8,14,1
-What is the fifth month of the year?,April,May,June,July,2
-What is the largest planet in our solar system,Saturn,Neptune,Jupiter,Venus,3
-Where is the stonehenge?,India,England,Scottland,Canada,2
-What grows quicker?,Hair,Toenail,Skin,Eyebrows,1
-Which is the tallest mountain in the world?,Mount Kilimanjaro,Mount Denali,Mount Fuji,Mount Everest,4
-Which planet is known as the red planet?,Venus,Mars,Earth,Jupitar,2
-Which part of the body continue to grow for your entire life?,Brain,Teeth,Nose,Eyes,3
-Which first electrical item did Thomas Edision invent?,Rice cooker,Lightbulb,Hair Dryer,Fan,2
+How many seconds make one hour?, 12000,3600,500,1800,2
+Who is known as the “Father of Modern Physics”?,Albert Einstein, Isaac newton, Gandhi, George Washington,1
+Who painted the Mona Lisa?, Vincent Van Gogh, Claude Monet, Leonardo Da Vinci, Pablo Picasso, 3
+Which country is known as the “Land of the Rising Sun”? ,China, Korea, Thailand, Japan, 4
+Which continent is known as the “Dark Continent”? ,Asia, Europe, Africa, Antartica, 3 
+What is the currency of Russia? ,Ruble, Euro, Pound, Yen, 1
+Who was the first man to step on the moon?, Buzz Aldrin, Alan Shepard, John Glenn, Neil Armstrong, 4
+What is the capital of South Korea? ,Seoul, Bangkok, Tokyo, Beijing, 1
+Who is known as the “Father of Computers”?, Galileo Galilei, Charles Babbage, Charles Darwin, Marie Curie, 2
+Who is known as the “Father of Biology”? ,Isaac Newton, Aristotle, Nikola Tesla, Rosalind Franklin, 2
+What is the capital of Canada?, Ottawa, Buenos Aires, Canberra, Tokyo,1
