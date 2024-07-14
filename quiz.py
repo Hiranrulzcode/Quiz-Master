@@ -83,7 +83,8 @@ def on_mouse_down(pos):
             if index is int(question[5]):
                 correct_answer()
             else:
-                game_over()
+                #game_over()
+                neg_score()
         index=index+1
     if skip_box.collidepoint(pos):
         skip_question()
@@ -110,7 +111,12 @@ def game_over():
     time_left=0
     is_game_over=True
 
-
+def neg_score():
+    global score, question, time_left
+    score=score-1
+    if questions:
+        question=read_next_question()
+        time_left=10
 
 
 pgzrun.go()
